@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Priyanshu jain 👋
 
 ### 🎓 Graduate @ Mandsaur University | Full Stack Developer
